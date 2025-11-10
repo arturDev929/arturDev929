@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0066cc&height=200&section=header&text=Artur%20Alexandre&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0066cc&height=200&section=header&text=Artur%20Paulo&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 </div>
 
