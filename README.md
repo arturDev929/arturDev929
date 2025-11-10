@@ -9,7 +9,7 @@
 <div align="center">
 
 ### 🎯 **Texto Dinâmico**
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=600&height=50&lines=🚀+Desenvolvedor+Full+Stack;💻+Especialista+em+JavaScript;🎯+Criador+de+Soluções;🔥+Apaixonado+por+Tecnologia;📱+Desenvolvedor+Web;💡+Inovador+em+TI" alt="Texto dinâmico" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&width=600&height=50&lines=🚀+Desenvolvedor+Full+Stack;🎯+Criador+de+Soluções;🔥+Apaixonado+por+Tecnologia;📱+Desenvolvedor+Web" alt="Texto dinâmico" />
 
 </div>
 
