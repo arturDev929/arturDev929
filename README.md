@@ -1,12 +1,12 @@
-# 👋 Hello, I'm Artur!  
+# 👋 Olá, eu sou o Artur!  
 
-### 🚀 About Me  
-I'm a passionate **Full-Stack Developer** with experience in building dynamic and responsive web applications. I enjoy solving complex problems and continuously learning new technologies to improve my skills. My goal is to contribute to innovative projects and collaborate with other developers to create impactful solutions.  
+### 🚀 Sobre Mim  
+Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia, com experiência na criação de aplicações web dinâmicas e responsivas. Tenho grande interesse em resolver problemas complexos e estou em constante aprendizado para aprimorar minhas habilidades. Meu objetivo é contribuir com projetos inovadores e colaborar com outros desenvolenvolvedores para criar soluções impactantes.  
 
 ---
 
-### 🛠️ Technologies & Skills  
-Here are the technologies I work with:  
+### 🛠️ Tecnologias & Habilidades  
+Aqui estão as tecnologias com as quais trabalho:  
 
 - **Frontend:** 
   - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,33 +19,31 @@ Here are the technologies I work with:
   - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-- **Database:** 
+- **Banco de Dados:** 
   - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Tools:** 
+- **Ferramentas:** 
   - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats  
-![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturDev929&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arturDev929&layout=compact&theme=radical)  
+### 📈 Estatísticas do GitHub  
+![Estatísticas do Artur](https://github-readme-stats.vercel.app/api?username=arturDev929&show_icons=true&theme=radical&locale=pt-br)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=arturDev929&layout=compact&theme=radical&locale=pt-br)  
 
 ---
 
-### 📫 How to Reach Me  
-- **Email:** [Your Email]  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **Portfolio:** [Your Portfolio Link]  
+### 📫 Como Me Encontrar  
+- **Email:** [arturmakumbapaulo@gmail.com/arturpaulo929@gmail.com]    
 
 ---
 
-### ⚡ Fun Fact  
-I love turning ideas into reality through code and am always excited to take on new challenges!  
+### ⚡ Curiosidade  
+Adoro transformar ideias em realidade através do código e sempre me entusiasmo com novos desafios!  
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
+*"Código é como humor. Quando você precisa explicá-lo, é ruim." – Cory House*  
 
-Feel free to explore my repositories and reach out if you'd like to collaborate! 😄
+Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar! 😄
