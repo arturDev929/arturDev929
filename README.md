@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm Artur!  
 
-<!--
-**arturDev929/arturDev929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+I'm a passionate **Full-Stack Developer** with experience in building dynamic and responsive web applications. I enjoy solving complex problems and continuously learning new technologies to improve my skills. My goal is to contribute to innovative projects and collaborate with other developers to create impactful solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Skills  
+Here are the technologies I work with:  
+
+- **Frontend:** HTML, CSS, JavaScript, Handlebars  
+- **Backend:** Node.js, C#, C  
+- **Database:** MySQL  
+- **Tools & Others:** Git, GitHub, REST APIs  
+
+---
+
+### 📈 GitHub Stats  
+![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturDev929&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arturDev929&layout=compact&theme=radical)  
+
+---
+
+### 📫 How to Reach Me  
+- **Email:** [Your Email]  
+- **LinkedIn:** [Your LinkedIn Profile]  
+- **Portfolio:** [Your Portfolio Link]  
+
+---
+
+### ⚡ Fun Fact  
+I love turning ideas into reality through code and am always excited to take on new challenges!  
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
+
+Feel free to explore my repositories and reach out if you'd like to collaborate! 😄
