@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=200&section=header&text=Artur%20Paulo&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0066cc&height=200&section=header&text=Artur%20Paulo&fontSize=50&fontColor=000000&animation=fadeIn)
 
 </div>
 
@@ -97,7 +97,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia, com experiência 
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=0066cc&height=100&section=footer&text=Muito+Obrigado+Pela+Visita!&fontSize=20&fontColor=ffffff&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=0066cc&height=100&section=footer&text=Muito+Obrigado+Pela+Visita!&fontSize=20&fontColor=000000&animation=fadeIn)
 
 </div>
 
