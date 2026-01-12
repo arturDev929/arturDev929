@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0066cc&height=200&section=header&text=Artur%20Paulo&fontSize=50&fontColor=000000&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0066cc&height=200&section=header&text=Artur%20Paulo&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 </div>
 
@@ -20,16 +20,6 @@
 Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia, com experiência na criação de aplicações web dinâmicas e responsivas. Tenho grande interesse em resolver problemas complexos e estou em constante aprendizado para aprimorar minhas habilidades.
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Artur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arturDev929&show_icons=true&theme=radical&bg_color=0D1117&title_color=0066FF&icon_color=0066FF&text_color=FFFFFF&border_color=0066CC)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arturDev929&layout=compact&theme=radical&bg_color=0D1117&title_color=0066FF&text_color=FFFFFF&border_color=0066CC)
-
-</div>
 
 <div align="center">
 
@@ -59,21 +49,6 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia, com experiência 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 Linguagens Mais Utilizadas
-
-```text
-🟨 JavaScript    ████████████████░░░░░░    68.4%
-🟧 HTML          █████████████░░░░░░░░░    58.9%
-🟦 CSS           ██████████░░░░░░░░░░░░    42.7%
-🟪 C#            ████████░░░░░░░░░░░░░░    35.2%
-🟩 Node.js       ██████░░░░░░░░░░░░░░░░    28.9%
-⬜ MySQL         █████░░░░░░░░░░░░░░░░░    24.6%
-🟫 C             ████░░░░░░░░░░░░░░░░░░    19.8%
-🟥 Handlebars    ███░░░░░░░░░░░░░░░░░░░    15.3%
-```
 
 ---
 
@@ -109,7 +84,7 @@ Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia, com experiência 
 
 **Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar!** 😄
 
-![Visitors](https://komarev.com/ghpvc/?username=arturDev929&color=0066cc&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=arturDev929&color=ffffff&style=flat-square)
 
 </div>
 
